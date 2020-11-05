@@ -7,6 +7,7 @@ Pre-conditions: This simplified documents assume whole bunch of things to keep i
 * Helm installed:  'brew install kubernetes-helm'
 * Kubernets config pointed to local kubernetes cluster: 'kubectl config current-context' should print 'docker-desktop'
 
+**Installation
 
 * Get the Lucidworks fusion code: 'git clone https://github.com/lucidworks/fusion-cloud-native.git'
 * 'cd fusion-cloud-native'
